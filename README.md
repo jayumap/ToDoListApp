@@ -1,6 +1,8 @@
 # toooodo
 
 A new Flutter project.
+1st Flutter project and first application created using flutter. ;)
+
 
 ## Getting Started
 
